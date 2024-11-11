@@ -1,0 +1,14 @@
+body {
+    background-color: rgb(211, 204, 204);
+    color: rgb(19, 19, 13);
+}
+img {
+    width: 900px;
+    height: 600px;
+}
+
+#square{
+    background-color:  rgb(19, 10, 31);
+    width: 20px;
+    height: 20px;
+}

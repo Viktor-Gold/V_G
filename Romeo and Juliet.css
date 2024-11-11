@@ -1,0 +1,12 @@
+body {
+    background-color: rgb(219, 219, 219);
+}
+
+#title {
+    color: blueviolet;
+    text-align: center;
+}
+
+.col{
+    color: rgb(6, 6, 124);
+}
